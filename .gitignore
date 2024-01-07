@@ -1,0 +1,4 @@
+bsds500
+mnist
+*.pth
+*.zip
